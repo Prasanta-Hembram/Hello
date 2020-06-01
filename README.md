@@ -1,2 +1,1 @@
-# Hello
-just example
+This is a test file
